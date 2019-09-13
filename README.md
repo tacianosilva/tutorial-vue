@@ -1,5 +1,11 @@
 # tutorial-vue
 
+```
+npm i -g @vue/cli
+vue --version
+vue create tutorial-vue
+```
+
 ## Project setup
 ```
 npm install
@@ -27,3 +33,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Links
+
+https://vuetifyjs.com/en/getting-started/pre-made-layouts
